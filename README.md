@@ -18,7 +18,7 @@ A web app that lets users search through text and instantly highlights matching 
 
 - React (Vite)
 - JavaScript
-- CSS / Bootstrap]
+- CSS / Bootstrap
 
 ---
 
